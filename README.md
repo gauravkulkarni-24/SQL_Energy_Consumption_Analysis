@@ -31,13 +31,13 @@ All CSV files used to populate these tables are provided in the **Data_Files** f
 ## ⚙️ Setup and Data Import Guide  
 
 **Step 1:** Create a new database named `ENERGYDB2`.  
-**Step 2:** Run the table creation script located in `SQL_Files/SQL_Project_Table_Structure.sql`.  
+**Step 2:** Run the table creation script located in `SQL_Files/Energy_Consumption_Analysis_Table_Structure.sql`.  
 This will create all the necessary tables and relationships.  
 
 **Step 3:** Import the data from the CSV files located in the `Data_Files` folder.  
 You can use MySQL Workbench’s “Table Data Import Wizard” or run the standard `LOAD DATA INFILE` command for each file.  
 
-**Step 4:** Once the data is successfully imported, execute the query file `SQL_Files/SQL_Project_Query_Solution.sql` to perform complete data analysis and generate insights.  
+**Step 4:** Once the data is successfully imported, execute the query file `SQL_Files/Energy_Consumption_Analysis_Query_Solution.sql` to perform complete data analysis and generate insights.  
 
 ---
 
