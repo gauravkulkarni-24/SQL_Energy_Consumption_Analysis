@@ -1,7 +1,7 @@
 # 🌍 SQL Project: World Wide Energy Consumption Analysis  
 
 ## 📘 Overview  
-This project focuses on analyzing **global energy production, consumption, emissions, and GDP data** using **SQL**. It demonstrates how relational databases can be transformed into meaningful insights about **energy trends, sustainability, and economic growth**.  
+This project focuses on analyzing **global energy production, consumption, emissions, and GDP data** using **SQL**. It demonstrates how relational databases can be transformed into meaningful insights about **energy trends, sustainability, and economic growth**. 
 
 It is an important part of my **Data Science learning journey** after mastering Python and Excel, and it helped me explore how SQL can reveal real-world patterns hidden inside large datasets.  
 
