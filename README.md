@@ -92,4 +92,9 @@ It contains the ER diagram, visual charts, analytical findings, and major conclu
 
 ---
 
+## 🚀 Future Scope  
+- Integrate SQL data with Python (using Pandas and Matplotlib) for visual dashboards.  
+- Automate report generation and insights using scripts.  
+- Extend the dataset with live APIs for up-to-date energy analytics.  
 
+---
