@@ -59,7 +59,7 @@ This project revealed how energy, economy, and environment are closely linked:
 - Global emissions show a steady increase, except a slight dip in **2020**, likely due to pandemic-related restrictions.  
 - **USA, China, Japan, Germany, and India** lead in GDP, highlighting a correlation between economic power and energy consumption.  
 - Some nations, like **India and Japan**, consume more energy than they produce, reflecting high import dependency, while **Russia and the USA** maintain near self-sufficiency.  
-- For more insights, refer: 
+- For more insights, refer: https://github.com/gauravkulkarni-24/SQL_Energy_Consumption_Analysis/blob/main/Query_Solution_Energy_Consumption_Analysis.sql
 
 ---
 
