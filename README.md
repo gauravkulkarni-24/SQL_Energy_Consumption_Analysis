@@ -31,13 +31,13 @@ All CSV files used to populate these tables are provided in the **Data_Files** f
 ## ⚙️ Setup and Data Import Guide  
 
 **Step 1:** Create a new database named `ENERGYDB2`.  
-**Step 2:** Run the table creation script located in `SQL_Files/Energy_Consumption_Analysis_Table_Structure.sql`.  
+**Step 2:** Run the table creation script located in `Table_Structure_Energy_Consumption_Analysis.sql`.  
 This will create all the necessary tables and relationships.  
 
 **Step 3:** Import the data from the CSV files located in the `Data_Files` folder.  
 You can use MySQL Workbench’s “Table Data Import Wizard” or run the standard `LOAD DATA INFILE` command for each file.  
 
-**Step 4:** Once the data is successfully imported, execute the query file `SQL_Files/Energy_Consumption_Analysis_Query_Solution.sql` to perform complete data analysis and generate insights.  
+**Step 4:** Once the data is successfully imported, execute the query file `Query_Solution_Energy_Consumption_Analysis.sql` to perform complete data analysis and generate insights.  
 
 ---
 
@@ -59,6 +59,7 @@ This project revealed how energy, economy, and environment are closely linked:
 - Global emissions show a steady increase, except a slight dip in **2020**, likely due to pandemic-related restrictions.  
 - **USA, China, Japan, Germany, and India** lead in GDP, highlighting a correlation between economic power and energy consumption.  
 - Some nations, like **India and Japan**, consume more energy than they produce, reflecting high import dependency, while **Russia and the USA** maintain near self-sufficiency.  
+- For more insights, refer: 
 
 ---
 
@@ -78,7 +79,8 @@ It contains the ER diagram, visual charts, analytical findings, and major conclu
 ---
 
 ## 📂 Folder Overview  
-- **SQL_Files:** Database creation and analysis scripts  
+- **Table_Structure_Energy_Consumption_Analysis.sql:** Database creation and analysis scripts
+- **Query_Solution_Energy_Consumption_Analysis.sql:**  data analysis and insights.
 - **Data_Files:** CSV files for country, GDP, production, consumption, population, and emission data  
 - **Presentation:** PowerPoint file explaining visuals and results  
 
